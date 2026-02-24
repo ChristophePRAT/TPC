@@ -36,4 +36,4 @@ uv sync
 | Session | Paper  | Code |
 | --- | --- | --- |
 | 1 | [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531) | [Knowledge distillation repo](https://github.com/FedericoMendez/knowledge_distillation_cifar100) |
-| 2 | [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602) | [DQN](./DQN) |
+| 2 | [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602) | [DQN](https://github.com/ChristophePRAT/TPC/tree/main/Session%202%20-%20DQN) |
