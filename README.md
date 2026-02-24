@@ -1,7 +1,7 @@
 # Télécom ML Reading Club 
 
 ## Description
-This repository contains the code for the Télécom ML Reading Club, an occasion for students to present and discuss recent research papers in machine learning. The repository includes the code for the presentations, as well as any relevant materials such as slides and datasets.
+This repository contains the code for the Télécom ML Reading Club, an occasion for students to present and discuss recent research papers in machine learning. The repository includes the code for the implementation of the papers, as well as some documentation.
 
 
 ## How to use
