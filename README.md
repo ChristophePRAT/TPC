@@ -37,3 +37,4 @@ uv sync
 | --- | --- | --- |
 | 1 | [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531) | [Knowledge distillation repo](https://github.com/FedericoMendez/knowledge_distillation_cifar100) |
 | 2 | [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602) | [DQN](https://github.com/ChristophePRAT/TPC/tree/main/Session%202%20-%20DQN) |
+| 3 | [Recurrent Neural Networks (RNNs): A gentle Introduction and Overview](https://arxiv.org/abs/1912.05911) | [RNNs](https://github.com/ChristophePRAT/TPC/tree/main/Session%203%20-%20RNN) |
